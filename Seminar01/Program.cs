@@ -37,4 +37,3 @@ Console.Write(current + " ");
 current++;  // current = current +1
 }
 */
-св
